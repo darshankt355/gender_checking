@@ -9,10 +9,6 @@ In many Indian languages, **most girls' names end with `a`, `i`, or `u`**, so th
 - Flask backend with HTML/CSS frontend
 - Runs locally on your machine
 
-## 🖼 Demo
-
-![App Screenshot](c0201f43-4f4c-4cfb-8fee-9c2c3d2c705b.png)  
-![Uploading image.png…]()
 
 
 **Logic Used:**
